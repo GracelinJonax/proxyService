@@ -1,0 +1,25 @@
+spring:
+  application:
+    name: proxy
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: gracelinjonax247@gmail.com
+    password: kodo qaqr dsde hrgf
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+server:
+  port: 8082
+billApi: toBill
+feignBill: bill
+feignBillUrl: localhost:8081
+emailType: text/html
+productsHtml: products
+total:  priceTotal
+htmlPageName: table
+emailSubject: Your Order is Confirmed
