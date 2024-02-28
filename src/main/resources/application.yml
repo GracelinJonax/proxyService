@@ -20,6 +20,6 @@ feignBill: bill
 feignBillUrl: localhost:8081
 emailType: text/html
 productsHtml: products
-total:  priceTotal
+total: priceTotal
 htmlPageName: table
 emailSubject: Your Order is Confirmed
