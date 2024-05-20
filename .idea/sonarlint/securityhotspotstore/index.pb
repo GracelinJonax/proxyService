@@ -1,14 +1,10 @@
 
 a
-1src/main/java/com/example/proxy/Api/ProxyApi.java,c/6/c6da1085426982d7a38ad34d6338670c215bb72e
-a
 1src/main/java/com/example/proxy/api/ProxyApi.java,9/0/90d10c9f6ee1378410224b0e8285cee11f5da0d5
 o
 ?src/main/java/com/example/proxy/controller/ProxyController.java,6/d/6d85c762920ee9481ecd8482d99383cecb27dafe
 `
 0src/main/java/com/example/proxy/dto/BillDto.java,2/e/2e6ea80e1d84a47273536eba668f399cfaee4227
-e
-5src/main/java/com/example/proxy/dto/orderBillDto.java,9/3/93ec7b93d9897f0d6c23d5c05da3c796970bdb66
 e
 5src/main/java/com/example/proxy/dto/OrderBillDto.java,c/c/cce887a27555972ff1d5e32b91c8e8cc675910ea
 d
@@ -23,3 +19,7 @@ i
 9src/main/java/com/example/proxy/service/ProxyService.java,d/1/d14932289dc7c370e95f3d73b84346cdd5e354f2
 e
 5src/main/java/com/example/proxy/ProxyApplication.java,7/6/762e95e8202bdda2217c7907ab2bfe09f223a45a
+W
+'src/main/resources/templates/table.html,f/d/fd4eab4c86746b659ec10dbb41d842713cea3ae2
+R
+"src/main/resources/application.yml,a/6/a6d8b8556fee0e03112ce2bf34b8cb27a7dc9e58

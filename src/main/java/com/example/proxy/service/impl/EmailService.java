@@ -18,6 +18,7 @@ public class EmailService {
     }
     @Value("${emailType}")
     String emailType;
+//    @Async
     public void sendEmail(String toEmail, String subject, String message) {
         MimeMessage mimeMailMessage = javaMailSender.createMimeMessage();
         try {
